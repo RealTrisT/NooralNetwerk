@@ -1,0 +1,1 @@
+g++ main.cpp Neuron.cpp -o nn
